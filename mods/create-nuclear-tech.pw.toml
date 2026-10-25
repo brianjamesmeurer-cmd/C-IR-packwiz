@@ -1,0 +1,13 @@
+name = "Create Nuclear Tech"
+filename = "createnucleartech-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/biKYEwYW/versions/OATj3qOb/createnucleartech-0.1.jar"
+hash-format = "sha512"
+hash = "af3a12efd5a702e4601cbf1c02e44cda356c636117ab600cd129457d17d07515da383ebd719e49ded2819c12ec56532d231afd48bc18b228190c699242a6ddd3"
+
+[update]
+[update.modrinth]
+mod-id = "biKYEwYW"
+version = "OATj3qOb"

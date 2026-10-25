@@ -1,0 +1,13 @@
+name = "Create: Industrial Revolution"
+author = "Brian Meurer"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "db6fba00473a32f1acb8f91ce26d8e117a30a3cdc8dfff2ab04eceaa44ecfe04"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.262"
